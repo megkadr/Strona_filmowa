@@ -1,0 +1,46 @@
+
+main{
+    width: 68%;
+    height: auto;
+    margin-left: 15%;
+    float: left;
+    border: 2px solid black;
+}
+a {
+    color: rgba(0,0,0,.5);
+    text-decoration:none;
+    margin: 0;
+    padding: 0;
+   }
+ #container {
+	 float: left;
+	 display: inline-table;
+	 width: 100%;
+	 height: auto;
+	 margin: 0;
+	 padding: 0;
+     border: 2px solid black;
+ }
+footer{
+   position: relative;
+   bottom: 0;
+   width: 100%;
+   background-color: rgba(0,0,0,0.5);
+   float: left;
+   color: white;
+   max-width: 100% !important;
+}
+h1{
+    text-align: center;
+}
+
+.text-muted {
+    color: white !important;
+}
+.nazwa{
+    height: 20%;
+}
+.filmy{
+    height: 80%;
+}
+    

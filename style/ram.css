@@ -1,0 +1,50 @@
+body{
+    background-image: url('../obrazy/rams.jpg');
+    
+}
+main{
+    width: 40%;
+    border: 2px solid black ;
+    float: left;
+    margin-right: 30%;
+    margin-left: 30%;
+    margin-top: 10%;
+    background: rgba(0, 0, 0, 0.5);
+    margin-bottom: 10%;
+}
+form{
+    margin-top: 10%;
+    font-size: 30px;
+    color: white;
+    font-family: verdana;
+    
+}
+input{
+    height: 5%;
+    width: 70%;
+}
+button{
+    background-color: yellow;
+    color: black;
+    width: 70%;
+    height: 5%;
+    font-family: verdana;
+    font-size: 15px;
+}
+a {
+    color: rgba(0,0,0,.5);
+    text-decoration:none;
+    margin: 0;
+    padding: 0;
+   }
+.container{
+   float: left;
+   padding-bottom: 0;
+   background: rgba(0, 0, 0, 0.5);
+   max-width:  100%;
+   color: white;
+}
+
+.text-muted {
+    color: white !important;
+}

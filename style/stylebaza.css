@@ -1,0 +1,92 @@
+main{
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+button{
+    background-color: yellow;
+    color: black;
+    width: 5%;
+    height: 5%;
+    font-family: verdana;
+    font-size: 10px;
+    margin-left: 2.5%;
+}
+
+a {
+    color: rgba(0,0,0,.5);
+    text-decoration:none;
+    margin: 0;
+    padding: 0;
+   }
+ #z1{
+	 width: 20%;
+     height: 100%;
+     float: left;
+ }
+ #z2{
+	 height: 25%;
+     width: 40%;
+     float: left;
+     border: 2px solid black;
+ }
+ #z3, #z4, #z5{
+	 height: 25%;
+     width: 80%;
+     float: left;
+     border: 2px solid black;
+	 border-top: none;
+ }
+ #z6{
+    width: 40%;
+    height: 25%;
+    float: left;
+    border: 2px solid black;
+	border-left: none;
+ }
+ #container {
+	display: table;
+	width: 100%;
+	height: 170px;
+	margin: 0;
+	padding: 0;
+    margin-top: 2.5%;
+	background: rgba(0, 0, 0, 0.5);
+	color: white;
+	line-height: 40px;
+ }
+
+
+div#z1 img
+{
+    width: 100%;
+    height: 100%;
+}
+.butt{
+    width: 100%;
+    border: 2px solid black ;
+    float: left;
+    padding-left: 10%;
+    margin-top: 2.5%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-bottom: 5%;
+}
+
+
+footer{
+   position: relative;
+   bottom: 0;
+   width: 100%;
+   background-color: rgba(0,0,0,0.5);
+   float: left;
+   color: white;
+   max-width: 100% !important;
+}
+h1{
+    text-align: center;
+}
+.text-muted {
+    color: white !important;
+}

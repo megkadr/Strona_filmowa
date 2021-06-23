@@ -1,0 +1,37 @@
+
+main{
+    width: 40%;
+    border: 2px solid gray;
+    height: auto;
+	margin: 50px auto;
+    background: rgba(0, 0, 0, 0.15);
+	border-radius: 15px;
+}
+form{
+	margin: 10px;
+    font-size: 25px;
+    color: white;
+    font-family: verdana;
+}
+input{
+    height: 5%;
+    width: 70%;
+}
+
+a {
+    color: rgba(0,0,0,.5);
+    text-decoration:none;
+    margin: 0;
+    padding: 0;
+   }
+.container{
+   float: left;
+   padding-bottom: 0;
+   background: rgba(0, 0, 0, 0.5);
+   max-width:  100%;
+   color: white;
+}
+
+.text-muted {
+    color: white !important;
+}
